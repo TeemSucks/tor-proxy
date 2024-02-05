@@ -41,7 +41,7 @@ function createWindow() {
   tray.setContextMenu(contextMenu);
 
   tray.on('click', function () {
-    print('idk AAAA');
+    console.log('idk AAAA');
   });
 }
 

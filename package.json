@@ -17,6 +17,12 @@
     "linux": {
       "target": "AppImage",
       "icon": "assets/tray-icon.png"
+    },
+    "mac": {
+      "target": [
+        "dmg"
+      ],
+      "identity": null
     }
   },
   "keywords": [],
