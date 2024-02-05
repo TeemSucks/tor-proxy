@@ -1,0 +1,28 @@
+{
+  "name": "tor-proxy",
+  "version": "1.0.0",
+  "description": "socks5 proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.TeemSucks.TorProxy",
+    "win": {
+      "target": "nsis",
+      "icon": "assets/tray-icon.ico"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "assets/tray-icon.png"
+    }
+  },
+  "keywords": [],
+  "author": "TeemSucks",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^26.2.4"
+  }
+}
