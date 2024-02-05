@@ -6,5 +6,6 @@ for all you scary hackers..
 ```sh
 git clone https://github.com/TeemSucks/tor-proxy
 cd ./tor-proxy
+npm install
 npm run pack
 ```
