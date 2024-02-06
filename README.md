@@ -13,3 +13,8 @@ npm run pack
 **Note:** tor must be running and connected
 
 https://check.torproject.org/
+
+## amazing quotes
+"It wont work, i dont need to test it." **[-teem](https://github.com/teemsploit)**
+
+(it does work)
