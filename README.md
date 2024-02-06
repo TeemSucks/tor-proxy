@@ -11,3 +11,5 @@ npm run pack
 ```
 
 **Note:** tor must be running and connected
+
+https://check.torproject.org/
