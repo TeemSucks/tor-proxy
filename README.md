@@ -9,3 +9,5 @@ cd ./tor-proxy
 npm install
 npm run pack
 ```
+
+**Note:** tor must be running and connected
