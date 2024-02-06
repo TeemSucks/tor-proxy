@@ -10,6 +10,8 @@ npm install
 npm run pack
 ```
 
+for windows you may need to run it as an administrator
+
 **Note:** tor must be running and connected
 
 https://check.torproject.org/
