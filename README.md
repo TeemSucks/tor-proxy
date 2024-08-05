@@ -20,3 +20,5 @@ https://check.torproject.org/
 "It wont work, i dont need to test it." **[-teem](https://github.com/teemsploit)**
 
 (it does work)
+
+**(two 6 months later..)** "im making a tor proxy thing but for windows and im skidding your code" **[-teem](https://github.com/teemsploit)**
